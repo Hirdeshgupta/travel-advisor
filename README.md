@@ -27,14 +27,15 @@ Here're some of the project's best features:
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Get the travel advisor rapid API key from the following URL by signing up</p>
-
 ```
 https://rapidapi.com/apidojo/api/travel-advisor
 ```
+
 <p>2. Get the google map API Key from the following URL by creating an app from google console and enabling google maps apis </p>
 
 ```
 https://console.cloud.google.com
+```
 
 <p>3. Clone the repo</p>
 
