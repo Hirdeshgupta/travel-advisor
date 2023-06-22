@@ -27,6 +27,7 @@ Here're some of the project's best features:
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Get the travel advisor rapid API key from the following URL by signing up</p>
+
 ```
 https://rapidapi.com/apidojo/api/travel-advisor
 ```
