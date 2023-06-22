@@ -29,18 +29,17 @@ Here're some of the project's best features:
 <p>1. Get the travel advisor rapid API key from the following URL by signing up</p>
 
 ```
-[https://rapidapi.com/apidojo/api/travel-advisor](https://rapidapi.com/apidojo/api/travel-advisor)
+https://rapidapi.com/apidojo/api/travel-advisor
 ```
 <p>2. Get the google map API Key from the following URL by creating an app from google console and enabling google maps apis </p>
 
 ```
-[https://console.cloud.google.com](https://console.cloud.google.com)
-```
+https://console.cloud.google.com
 
 <p>3. Clone the repo</p>
 
 ```
-[https://github.com/Hirdeshgupta/TravelAdvisor.git](https://github.com/Hirdeshgupta/TravelAdvisor.git)
+https://github.com/Hirdeshgupta/TravelAdvisor.git
 ```
 
 <p>3. Install npm packages</p>
