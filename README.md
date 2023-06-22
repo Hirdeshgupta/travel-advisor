@@ -8,10 +8,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/uc?id=1Q20DNq3aeqX6hTpTQfCWEM1mYIsiEIBP" alt="project-screenshot" width="400" height="400/">
+<img src="https://drive.google.com/uc?id=1Q20DNq3aeqX6hTpTQfCWEM1mYIsiEIBP" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://drive.google.com/uc?id=1cxQHHrKaZTo2m7asF2i5kuO1XBu6Y9Ry" alt="project-screenshot" width="400" height="400/">
-<img src="https://drive.google.com/uc?id=11YqoC0pKZ4TMnux2nqUwdLlEXZ6Sl5wo" alt="project-screenshot" width="400" height="400/">
+<img src="https://drive.google.com/uc?id=1cxQHHrKaZTo2m7asF2i5kuO1XBu6Y9Ry" alt="project-screenshot" width="800" height="400/">
+<img src="https://drive.google.com/uc?id=11YqoC0pKZ4TMnux2nqUwdLlEXZ6Sl5wo" alt="project-screenshot" width="800" height="400/">
   
   
 <h2>🧐 Features</h2>
