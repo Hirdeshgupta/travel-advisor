@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Travel Advisor</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">This is Travel Advisor Application where one can find nearby hotels, attractions, and restaurants with the map </p>
 
-## Available Scripts
+<h2>🚀 Demo</h2>
 
-In the project directory, you can run:
+[https://traveladvisorhkg.netlify.app/](https://traveladvisorhkg.netlify.app/)
 
-### `npm start`
+<h2>Project Screenshots:</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="https://drive.google.com/uc?id=1Q20DNq3aeqX6hTpTQfCWEM1mYIsiEIBP" alt="project-screenshot" width="400" height="400/">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="https://drive.google.com/uc?id=1cxQHHrKaZTo2m7asF2i5kuO1XBu6Y9Ry" alt="project-screenshot" width="400" height="400/">
 
-### `npm test`
+<img src="https://drive.google.com/uc?id=11YqoC0pKZ4TMnux2nqUwdLlEXZ6Sl5wo" alt="project-screenshot" width="400" height="400/">
+  
+  
+<h2>🧐 Features</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here're some of the project's best features:
 
-### `npm run build`
+*   Search for places with Google geocoding location.
+*   View the map of the searched location.
+*   Get weather Information on the location.
+*   Get nearby Hotels, Attractions, and Restaurants.
+*   Filter them based on their ratings.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>🛠️ Installation Steps:</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>1. Get the travel advisor rapid API key from the following URL by signing up</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+[https://rapidapi.com/apidojo/api/travel-advisor](https://rapidapi.com/apidojo/api/travel-advisor)
+```
+<p>2. Get the google map API Key from the following URL by creating an app from google console and enabling google maps apis </p>
 
-### `npm run eject`
+```
+[https://console.cloud.google.com](https://console.cloud.google.com)
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p>3. Clone the repo</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+[https://github.com/Hirdeshgupta/TravelAdvisor.git](https://github.com/Hirdeshgupta/TravelAdvisor.git)
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p>3. Install npm packages</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm install
+```
 
-## Learn More
+<p>4. Create .env file in the root directory</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+REACT_APP_RAPID_API= XXXXXXX
+REACT_MAP_GOOGLE_MAP_API_KEY= XXXXXXXX
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
 
-### Code Splitting
+<p>5. Start react app</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+npm start
+```
 
-### Analyzing the Bundle Size
+<h2>🍰 Contribution Guidelines:</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are what make the open source community such an amazing place to be learn inspire and create. Any contributions you make are greatly appreciated.  
+\- Fork the Project  
+\- Create your Feature Branch (git checkout -b feature/AmazingFeature)  
+\- Commit your changes (git commit -m 'Add some AmazingFeature')  
+\- Push to the Branch (git push origin feature/AmazingFeature)  
+\- Open a Pull Request
 
-### Making a Progressive Web App
+  
+  
+<h2>💻 Built with</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Technologies used in the project:
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   React Js
+*   Rapid API - weather and travel advisor
+*   Google Geocoding
+*   Google Maps API
